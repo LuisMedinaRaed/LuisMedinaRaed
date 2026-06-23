@@ -1,97 +1,135 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+Soy+Luis+Medina+Raed!;" />
-</h1>
-
-<h3 align="center">Ingeniero en Computación | Desarrollador Full Stack</h3>
+<!-- HEADER -->
+<a href="https://luismedinaraed.com.ar">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2c3e50&height=200&section=header&text=Luis%20Medina%20Raed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Ingeniero%20en%20Computaci%C3%B3n%20%C2%B7%20Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="Luis Medina Raed" />
+</a>
 
 <p align="center">
-  Ingeniero de 23 años graduado en <strong>Ingeniería en Computación</strong> de la Universidad Nacional de Tucumán (FACET-UNT)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=3498DB&center=true&vCenter=true&width=600&lines=Ingeniero+en+Computaci%C3%B3n;Full+Stack+Developer;Next.js+%C2%B7+React+%C2%B7+Django+%C2%B7+Docker" alt="Roles" />
 </p>
+
+<p align="center">
+  Ingeniero de 24 años graduado en <strong>Ingeniería en Computación</strong> (FACET-UNT).<br/>
+  Construyo <strong>sistemas financieros</strong> y aplicaciones web con foco en calidad, rendimiento y buenas prácticas.
+</p>
+
+<!-- SOCIAL -->
+<p align="center">
+  <a href="mailto:luiseugeniomr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/LuisMedinaRaed" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://luismedinaraed.com.ar" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3498db?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<!-- QUICK FACTS -->
+<div align="center">
+
+🔭 Desarrollando sistemas internos en la **Caja Popular de Ahorros de Tucumán**
+&nbsp;·&nbsp; 💼 +1.5 años de experiencia
+&nbsp;·&nbsp; 🌎 Tucumán, Argentina
+
+</div>
 
 <br/>
 
-<div align="center">
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Stack Tecnológico</h2>
+<br/>
 
-🔭 Actualmente trabajando en **Caja Popular de Ahorros** y desarrollando soluciones web
+<table align="center">
+  <tr>
+    <td align="right"><strong>Lenguajes</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,java,c" alt="Lenguajes" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,bootstrap,html,css" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Backend&nbsp;&amp;&nbsp;Datos</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,django,postgresql,mysql" alt="Backend y bases de datos" /></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>DevOps&nbsp;&amp;&nbsp;Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,wordpress,vscode" alt="DevOps y herramientas" /></td>
+  </tr>
+</table>
 
-🌱 Especializado en **Desarrollo Full Stack** con Next.js, React, Django y PostgreSQL
+<br/>
 
-💼 Más de 1 año de experiencia trabajando en entidades financieras y startups
-
-</div>
-
-<div align="center">
-  <a href="mailto:luiseugeniomr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/LuisMedinaRaed" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://luismedinaraed.com.ar" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3498db?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</div>
-
-<hr/>
-
-<h2 align="center">💼 Experiencia Laboral</h2>
+<!-- EXPERIENCE -->
+<h2 align="center">💼 Experiencia</h2>
 <br/>
 
 ### 🏦 Caja Popular de Ahorros de Tucumán
-**Desarrollador Full Stack** | *Agosto 2024 - Actualidad*
+**Full Stack Developer** · *Ago 2024 – Actualidad* · Presencial
 
-- Desarrollo de sistemas internos de gestión financiera
-- Resolución de incidencias críticas
-- **Stack:** Django, PostgreSQL, React, Next.js, Docker
+- Desarrollo y mantenimiento de sistemas internos de gestión financiera y administrativa
+- Resolución de incidencias críticas y soporte técnico de segundo nivel
+- Implementación y mantenimiento de procesos en entornos productivos
+- Trabajo colaborativo con metodologías ágiles _(ascendido de jornada parcial a jornada completa)_
+
+`Django` &nbsp;`PostgreSQL` &nbsp;`React` &nbsp;`Next.js` &nbsp;`Docker`
 
 <br/>
 
 ### 🌱 CIRCCLO
-**Desarrollador Full Stack** | *Julio 2024 - Diciembre 2025*
+**Full Stack Developer** · *Jul 2024 – Dic 2025* · Remoto
 
-- Desarrollo Full Stack en startup de triple impacto
-- Administración de Odoo y Kommo
-- **Stack:** Next.js, PostgreSQL, Python
+- Desarrollo Full Stack de aplicaciones web en una startup de triple impacto (economía circular)
+- Administración y personalización de plataformas empresariales como **Odoo** y **Kommo**
+- Mantenimiento de apps productivas con cientos de usuarios distribuidos geográficamente
 
-<br/>
-<hr/>
-
-<h2 align="center">⚒️ Tecnologías & Herramientas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,django" />
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github" />
-    <img src="https://skillicons.dev/icons?i=astro,tailwind,bootstrap,html,css,js" />
-    <img src="https://skillicons.dev/icons?i=c,java,wordpress,vscode" /><br>
-</div>
+`Next.js` &nbsp;`PostgreSQL` &nbsp;`Python` &nbsp;`Odoo`
 
 <br/>
-<hr/>
 
+<!-- PROJECTS -->
+<h2 align="center">🚀 Proyectos Destacados</h2>
+<br/>
+
+### 🌐 [Portfolio Personal](https://luismedinaraed.com.ar) &nbsp;·&nbsp; [`@LuisMedinaRaed/portfolio`](https://github.com/LuisMedinaRaed/portfolio)
+
+Sitio personal estático, bilingüe (ES/EN) y optimizado para SEO y rendimiento.
+
+- **Stack:** Astro 5 · Tailwind CSS 4 · TypeScript
+- **Arquitectura data-driven:** contenido en archivos tipados (`src/data` / `src/i18n`)
+- **SEO técnico:** JSON-LD (Person, WebSite, ProfilePage), Open Graph, sitemap y `robots.txt`
+- **Self-hosted:** Docker multi-stage + Nginx + Traefik con SSL automático (Let's Encrypt)
+
+<br/>
+
+<!-- EDUCATION -->
 <h2 align="center">🎓 Educación</h2>
 <br/>
 
 <div align="center">
 
-### Universidad Nacional de Tucumán (UNT)
-**Ingeniería en Computación** | *2020 - 2024*
+**Universidad Nacional de Tucumán (UNT)** — Ingeniería en Computación · *2020 – 2024* · Promedio **8,47**
 
-Miembro del Cuadro de Honor (2023)
+🏅 Mejor Promedio de Ingeniería en Computación — 2023 &nbsp;·&nbsp; 🏅 Cuadro de Honor — 2023
 
 </div>
 
 <br/>
-<hr/>
 
-<h2 align="center">⚡ Estadísticas de GitHub ⚡</h2>
-<br>
-<div align=center>
-
-  <img width=390 alt="Estadísticas de GitHub" src="https://github-readme-stats.preveenraj.vercel.app/api?username=LuisMedinaRaed&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&text_color=3498db" />
-  <img width=390 alt="Lenguajes Más Usados" src="https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=LuisMedinaRaed&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" />
-
-</div>
-
-<br/><br/>
-
-<hr/>
+<!-- STATS -->
+<h2 align="center">📊 Estadísticas</h2>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisMedinaRaed&color=3498db&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al perfil" />
+  <img height="165" alt="Estadísticas de GitHub" src="https://github-readme-stats.preveenraj.vercel.app/api?username=LuisMedinaRaed&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=3498db&icon_color=3498db&text_color=8b949e" />
+  <img height="165" alt="Lenguajes más usados" src="https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=LuisMedinaRaed&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&title_color=3498db&text_color=8b949e" />
 </div>
 
-<br/>
+<div align="center">
+  <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=LuisMedinaRaed&hide_border=true&background=00000000&stroke=3498db&ring=3498db&fire=3498db&currStreakLabel=3498db&sideLabels=8b949e&dates=8b949e&currStreakNum=3498db&sideNums=8b949e&dayLabels=3498db" />
+</div>
+
+<!-- SNAKE CONTRIBUTION GRAPH (generado por GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMedinaRaed/LuisMedinaRaed/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisMedinaRaed/LuisMedinaRaed/output/snake.svg" />
+  <img alt="Snake comiendo las contribuciones de GitHub" src="https://raw.githubusercontent.com/LuisMedinaRaed/LuisMedinaRaed/output/snake.svg" />
+</picture>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=120&section=footer&text=%C2%A1Gracias%20por%20visitar!&fontSize=20&fontColor=ffffff&fontAlignY=70" alt="Gracias por visitar" />

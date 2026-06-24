@@ -88,6 +88,18 @@
 
 <br/>
 
+### 🏠 scriptHouse &nbsp;·&nbsp; [scripthouse.com.ar](https://scripthouse.com.ar) &nbsp;·&nbsp; [`@scriptHouse`](https://github.com/scriptHouse)
+**Co-fundador & Full Stack Developer** · *Mar 2025 – Actualidad* · Híbrido
+
+- Co-fundé un estudio de desarrollo de software a medida y automatización de procesos
+- Desarrollo Full Stack de sitios, landings y software a medida para clientes y emprendimientos
+- Arquitectura común reutilizable: Next.js (App Router) + Django/DRF + PostgreSQL
+- Infraestructura self-hosted (Docker + Traefik) y CI/CD con GitHub Actions sobre VPS propio
+
+`Next.js` &nbsp;`React` &nbsp;`Django` &nbsp;`PostgreSQL` &nbsp;`Docker` &nbsp;`Traefik`
+
+<br/>
+
 ### 🌱 CIRCCLO
 **Full Stack Developer** · *Jul 2024 – Dic 2025* · Remoto
 

@@ -1,15 +1,15 @@
 <!-- HEADER -->
 <a href="https://luismedinaraed.com.ar">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2c3e50&height=200&section=header&text=Luis%20Medina%20Raed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Ingeniero%20en%20Computaci%C3%B3n%20%C2%B7%20Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="Luis Medina Raed" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2c3e50&height=200&section=header&text=Luis%20Medina%20Raed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%26%20DevOps%20%C2%B7%20Ingeniero%20en%20Computaci%C3%B3n&descSize=18&descAlignY=58" alt="Luis Medina Raed" />
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=3498DB&center=true&vCenter=true&width=600&lines=Ingeniero+en+Computaci%C3%B3n;Full+Stack+Developer;Next.js+%C2%B7+React+%C2%B7+Django+%C2%B7+Docker" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=3498DB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+DevOps;Ingeniero+en+Computaci%C3%B3n;Next.js+%C2%B7+React+%C2%B7+Django;Docker+%C2%B7+Traefik+%C2%B7+CI%2FCD" alt="Roles" />
 </p>
 
 <p align="center">
   Ingeniero de 24 años graduado en <strong>Ingeniería en Computación</strong> (FACET-UNT).<br/>
-  Construyo <strong>sistemas financieros</strong> y aplicaciones web con foco en calidad, rendimiento y buenas prácticas.
+  Construyo <strong>sistemas financieros</strong> y aplicaciones web, y también <strong>despliego y opero la infraestructura</strong> con foco en calidad, rendimiento y buenas prácticas.
 </p>
 
 <!-- SOCIAL -->
